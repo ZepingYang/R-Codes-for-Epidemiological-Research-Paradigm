@@ -3,4 +3,4 @@ Codes in this part are used to conduct some statistical description without furt
 
 Usually, this analysis is limited to the scale of single variable.
 
-This work is the foundation for any Epidemiological research.
+This work is the foundation for epidemiological research.
