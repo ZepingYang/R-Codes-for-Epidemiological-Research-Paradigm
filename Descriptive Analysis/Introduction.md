@@ -1,6 +1,6 @@
 # Descriptive Analysis
-Codes in this part are used to conduct some statistical description without further statistical inference. 
+Codes in this part are used to conduct statistical description before further association exploration. 
 
-Usually, this analysis is limited to the scale of single variable.
+Usually, this analysis includes single variable.
 
 This work is the foundation for epidemiological research.
